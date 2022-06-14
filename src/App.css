@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.job-form{
+  margin-top: 100px;
+
+}
+
+.job-form input{
+  margin: 1rem;
+}
